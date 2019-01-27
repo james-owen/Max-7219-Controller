@@ -13,12 +13,15 @@ First modification by:
  * Marcus Hannerstig/  K3, malmÃ¶ hÃ¶gskola /2006
  * http://www.xlab.se | http://arduino.berlios.de
 
-This version is by:
+Second modification by:
  * tomek ness /FH-Potsdam / Feb 2007
  * http://design.fh-potsdam.de/ 
 
  * @acknowledgements: eric f. 
-
+ 
+This modification by:
+* james owen
+* the only changes here are for a personal project with one 7219
 -----------------------------------
 
 General notes: 
